@@ -1,0 +1,10 @@
+git add .  - Save The changes and transfer them into staging area
+git commit -m "Write Anything" - Staged the changed waiting for staging area
+git push -u origin master - Push you code on the git repository
+git status - check the status
+git branch - give no of branch in your computer 
+git branch  branchname - To create a branch
+git checkout branchname - To change the branch
+git branch -d branchname - To delete the branch
+git clone repositoryurl - Clone a repository
+notepad .ignore - Open the notespad and give you choise to ignore the files 
